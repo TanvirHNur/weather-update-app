@@ -1,6 +1,6 @@
-        # This a weather Update app </h1>
-        ### Live Link: https://app.netlify.com/sites/e-weather </h3>
-        ### It was built using the [open weather API](https://openweathermap.org/). They deserve our thanks </h6>
+        # This a weather Update app 
+        ### Live Link: https://app.netlify.com/sites/e-weather 
+        ### It was built using the [open weather API](https://openweathermap.org/). They deserve our thanks 
         
         ![Overview](image/overview.png)
 
