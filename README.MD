@@ -1,7 +1,4 @@
-        # This a weather Update app 
-        ### Live Link: https://app.netlify.com/sites/e-weather 
-        - ### It was built using the [open weather API](https://openweathermap.org/). They deserve our thanks 
-        
-        ![Overview](image/overview.png)
-
-        ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+     <h1>This a weather Update app </h1> 
+<h5>Live Link: https://app.netlify.com/sites/e-weather </h5>
+<h6>It was built using the <a href="https://openweathermap.org/">open weather API</a>  They deserve our thanks </h6>
+<img src="image/overview.png" alt="Overview">
